@@ -1,0 +1,7 @@
+# Dépendances requises pour l'accélération GPU (Fermat-nvidea.py)
+numpy>=1.24.0
+numba>=0.58.0
+
+# Remarque :
+# Les modules tkinter, math, time, json, random et threading font partie
+# de la bibliothèque standard de Python (Standard Library).
